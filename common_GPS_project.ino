@@ -1,3 +1,7 @@
+//this is an simple GPS demonstration project with illustrations of pre-configuration, signal detection, and finding out latitudes and longitude 
+//ID OF USER: Rakeshtsg
+//INTERFACE: Arduino 
+
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 
